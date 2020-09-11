@@ -15,18 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am UIUX Engineer 
+### I am UIUX Engineer 
 
-自社コーポレートサイト
-https://agd.tokyo/
+[朝霧デザイン（自社コーポレートサイト）](https://agd.tokyo/)
 
-経歴詳細 (Milanote)
-https://app.milanote.com/1JEEsN1b1xTmbS
+[経歴詳細 (Milanote)](https://app.milanote.com/1JEEsN1b1xTmbS)
 
-Linkedin
-https://www.linkedin.com/in/a-ito/
+[Linkedin](https://www.linkedin.com/in/a-ito/)
 
-Creative Work Sheet（Notion）
-shorturl.at/CKMZ8
+[Creative Work Sheet（Notion）](shorturl.at/CKMZ8)
 
 ![](https://komarev.com/ghpvc/?username=BoxPistols&color=green)
