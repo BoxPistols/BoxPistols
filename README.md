@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 
 ## Links:
 
-[朝霧デザイン（自社コーポレートサイト）](https://agd.tokyo/)
+[Asagiri Design: My personal company](https://agd.tokyo/)
 
-[経歴詳細 (Milanote)](https://app.milanote.com/1JEEsN1b1xTmbS)
+[My Jobs](https://app.milanote.com/1JEEsN1b1xTmbS)
+
+[Creative Work](shorturl.at/CKMZ8)
 
 [Linkedin](https://www.linkedin.com/in/a-ito/)
-
-[Creative Work Sheet（Notion）](shorturl.at/CKMZ8)
 
 ---
 
