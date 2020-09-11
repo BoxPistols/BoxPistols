@@ -28,3 +28,5 @@ https://www.linkedin.com/in/a-ito/
 
 Creative Work Sheet（Notion）
 shorturl.at/CKMZ8
+
+![](https://komarev.com/ghpvc/?username=BoxPistols&color=green)
