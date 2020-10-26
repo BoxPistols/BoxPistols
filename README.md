@@ -24,16 +24,4 @@ Here are some ideas to get you started:
 
 ---
 
-## Links:
-
-[Asagiri Design: My personal company](https://agd.tokyo/)
-
-[My Jobs](https://app.milanote.com/1JEEsN1b1xTmbS)
-
-[Creative Work](shorturl.at/CKMZ8)
-
-[Linkedin](https://www.linkedin.com/in/a-ito/)
-
----
-
 ![](https://komarev.com/ghpvc/?username=BoxPistols&color=green)
