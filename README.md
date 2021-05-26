@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## I am UIUX Engineer
 
-[![](https://raw.githubusercontent.com/BoxPistols/BoxPistols/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<!-- [![](https://raw.githubusercontent.com/BoxPistols/BoxPistols/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![](https://raw.githubusercontent.com/BoxPistols/BoxPistols/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/BoxPistols/BoxPistols/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 ---
 
 ![](https://komarev.com/ghpvc/?username=BoxPistols&color=green)
+ -->
