@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Atsushi Ito
 
-   <a href="https://zenn.dev/ait">
+   <a href="https://zenn.dev/ait" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://developer-chronicle.vercel.app/api/card?gh=BoxPistols&zenn=ait&dark=1">
       <source media="(prefers-color-scheme: light)" srcset="https://developer-chronicle.vercel.app/api/card?gh=BoxPistols&zenn=ait">
