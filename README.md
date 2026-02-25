@@ -18,6 +18,13 @@ Here are some ideas to get you started:
 ## I am UIUX Engineer
 
 Atsushi Ito
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://developer-chronicle.vercel.app/api/card?gh=BoxPistols&zenn=ait&dark=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://developer-chronicle.vercel.app/api/card?gh=BoxPistols&zenn=ait">
+  <img alt="Dev Chronicle" src="https://developer-chronicle.vercel.app/api/card?gh=BoxPistols&zenn=ait">
+</picture>
+
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoxPistols)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![](https://raw.githubusercontent.com/BoxPistols/BoxPistols/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
